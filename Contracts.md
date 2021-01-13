@@ -3,7 +3,10 @@
 # Communication plan
 How will your group communicate with each other? What is your strategy for ensuring everyone’s voices are heard, and that contributions from both loud and soft voices are listened to? Do you have a plan for managing psychological safety?
 
-_Examples: Remember to hold and lower hands in teams. Pause for silence.  Check-in on how the group is feeling._
+_Examples:_ 
+- _Remember to hold and lower hands in teams._
+- _Pause for silence._  
+- _Check-in on how the group is feeling._
 
 # Conflict Plan
 How will your group communicate with each other? What is your strategy for ensuring everyone’s voices are heard, and that contributions from both loud and soft voices are listened to? Do you have a plan for managing psychological safety?
