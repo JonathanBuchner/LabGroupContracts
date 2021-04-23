@@ -14,7 +14,7 @@ How will your group communicate with each other? What is your strategy for ensur
 
 _Examples:_ 
 - _Check-ins - just being accountable and open with each other; Come from a place of kindness._
-- _Use "I statements" - we aren't here to attack each other. "I feel \<single word emotion\> when \<objective statement\>" is great framework_
+- _Use "I statements" - we aren't here to attack each other. "I feel \<single word emotion\> when \<objective statement\>" is great a framework_
 - _Negotiation and pitch for five minutes (with a timer), and then agree and move forward with grace._
 
 # Work plan
